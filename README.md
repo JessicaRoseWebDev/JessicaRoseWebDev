@@ -8,8 +8,10 @@
 
 - 📫 How to reach me ... 
 
-Find me on Linkedin https://www.linkedin.com/in/jessballesteros/ and let's connect! 
+Find me on Linkedin
+https://www.linkedin.com/in/jessballesteros/ and let's connect! 
 
-If you want to check-out my other repos where I post random projects, find me at https://github.com/PrinceJelly and maybe we can collaborate one day?
+If you want to check-out my other repos where I post random projects, 
+find me at https://github.com/PrinceJelly and maybe we can collaborate one day?
 
 
